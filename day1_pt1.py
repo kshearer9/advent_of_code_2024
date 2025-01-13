@@ -1,6 +1,6 @@
 # Read in data and separate into two lists
-with open('Day1_Input', 'r') as day1_input:
-	lines = day1_input.readlines()
+with open('day1_pt1_input.txt', 'r') as data:
+	lines = data.readlines()
 
 ls1 = []
 ls2 = []
